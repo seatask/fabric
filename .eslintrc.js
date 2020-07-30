@@ -3,6 +3,6 @@
 module.exports = {
   extends: ['./lib/eslint'],
   rules: {
-    'no-undef': 0
-  }
+    'no-undef': 0,
+  },
 };
